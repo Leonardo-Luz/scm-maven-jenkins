@@ -11,7 +11,6 @@
 </head>
 <body>
     <div>
-        <h1>Olá usuário!</h1>
-        <h2>Vamos resolver o que hoje?!</h2>
+        <h2>Hello World</h2>
     </div>
 </body>
